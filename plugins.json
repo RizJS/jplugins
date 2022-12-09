@@ -4,11 +4,20 @@
   "name": "BankStander",
   "description": "Stands at a bank",
   "id": "bankstander-plugin",
-  "releases": [{
-    "date": "2022-12-01",
-    "sha512sum": "B140DD2491B49B4871C56C586A694AD855B0F3DB4315C0B06E899C8BD9C9B7CA5ACA7CDF1485EACEE73FF878172375F58135E98181BBB64078FB6EA401A0DF7D",
-    "version": "0.0.3",
-    "url": "https://raw.githubusercontent.com/Jnzzi/jplugins/master/bankstander-0.0.3.jar",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2022-12-01",
+      "sha512sum": "B140DD2491B49B4871C56C586A694AD855B0F3DB4315C0B06E899C8BD9C9B7CA5ACA7CDF1485EACEE73FF878172375F58135E98181BBB64078FB6EA401A0DF7D",
+      "version": "0.0.3",
+      "url": "https://raw.githubusercontent.com/Jnzzi/jplugins/master/bankstander-0.0.3.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-12-09",
+      "sha512sum": "7B84589B79E16717903D51C12B7E58B82397BCB2106FEAD3F826EFB543B74C286C1B3C729DCC914CE22457350CC66588A91235A78B039147CF1762F11D2D0EB6",
+      "version": "0.0.4",
+      "url": "https://raw.githubusercontent.com/Jnzzi/jplugins/master/bankstander-0.0.4.jar",
+      "requires": "^1.0.0"
+    }
+  ]
 }]
