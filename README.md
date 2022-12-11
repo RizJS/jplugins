@@ -33,12 +33,13 @@ BankStander Currently supports
   - Make Bows(u)
   - String bows
 
+  <br>
+* Cooking
+  
+  - 1-tick Karambwan
+  - Regular cooking
 
   <br>
 
 * Smithing
-  - TBA
-
-  <br>
-* Cooking
   - TBA
