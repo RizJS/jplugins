@@ -17,11 +17,12 @@
   "name": "JChompyBird",
   "description": "",
   "id": "jchompybird-plugin",
-  "releases": [{
-    "date": "2022-12-28",
-    "sha512sum": "3D13FB1C0D5C60E501D5F9C7A234D5EFCBFECF043DA33A0C129D4D928E2C95C75420FCF28EDDBF38978CE92DB70FE7743B7356BDCCC075A76288C580E28A1B0B",
-    "version": "0.0.3",
-    "url": "https://raw.githubusercontent.com/Jnzzi/jplugins/master/j-chompybird-0.0.3.jar",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2022-12-28",
+      "sha512sum": "E3634A72B6D883D378852F7AACA5DA6AAF1CEB90FD6A1FDE4FAA9F86C4F54494281ABCA687244DF7F91A903D604B4DF902FE02272518D1554187EA03F673D5B7",
+      "version": "0.0.4",
+      "url": "https://raw.githubusercontent.com/Jnzzi/jplugins/master/j-chompybird-0.0.4.jar",
+      "requires": "^1.0.0"
+    }]
 }]
