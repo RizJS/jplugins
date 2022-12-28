@@ -20,9 +20,9 @@
   "releases": [
     {
       "date": "2022-12-28",
-      "sha512sum": "E3634A72B6D883D378852F7AACA5DA6AAF1CEB90FD6A1FDE4FAA9F86C4F54494281ABCA687244DF7F91A903D604B4DF902FE02272518D1554187EA03F673D5B7",
-      "version": "0.0.4",
-      "url": "https://raw.githubusercontent.com/Jnzzi/jplugins/master/j-chompybird-0.0.4.jar",
+      "sha512sum": "FF2CB0B4EEA249795C6057190B94B2B7145BD0241E11C4BD4F30CF7DBC5DD39C742821007B782333305B3394C8EC747058C711A9613376E1536CD63B76E2A111",
+      "version": "0.0.5",
+      "url": "https://raw.githubusercontent.com/Jnzzi/jplugins/master/j-chompybird-0.0.5.jar",
       "requires": "^1.0.0"
     }]
 }]
