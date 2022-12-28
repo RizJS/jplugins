@@ -4,27 +4,24 @@
   "name": "BankStander",
   "description": "Stands at a bank",
   "id": "bankstander-plugin",
-  "releases": [
-    {
-      "date": "2022-12-01",
-      "sha512sum": "B140DD2491B49B4871C56C586A694AD855B0F3DB4315C0B06E899C8BD9C9B7CA5ACA7CDF1485EACEE73FF878172375F58135E98181BBB64078FB6EA401A0DF7D",
-      "version": "0.0.3",
-      "url": "https://raw.githubusercontent.com/Jnzzi/jplugins/master/bankstander-0.0.3.jar",
-      "requires": "^1.0.0"
-    },
-    {
-      "date": "2022-12-09",
-      "sha512sum": "7B84589B79E16717903D51C12B7E58B82397BCB2106FEAD3F826EFB543B74C286C1B3C729DCC914CE22457350CC66588A91235A78B039147CF1762F11D2D0EB6",
-      "version": "0.0.4",
-      "url": "https://raw.githubusercontent.com/Jnzzi/jplugins/master/bankstander-0.0.4.jar",
-      "requires": "^1.0.0"
-    },
-    {
-      "date": "2022-12-11",
-      "sha512sum": "B8EF34C23FC73FA529CD0A7872E4FDD1B495F1DD047276FB7D35DC1787317D39B3B07A4C7EBD57EACE43727647E9EC2C19458EE32FFB47B88DCE9C6D37F10079",
-      "version": "0.0.5",
-      "url": "https://raw.githubusercontent.com/Jnzzi/jplugins/master/bankstander-0.0.5.jar",
-      "requires": "^1.0.0"
-    }
-  ]
+  "releases": [{
+    "date": "2022-12-28",
+    "sha512sum": "428547D4AFF98B47FF05F77B8FD75A0E0D7C2C2A2A82EA6EE0989D2B02FC670915FFCEC47F26B0E9A77DDA1F582D743322D4FF0DEC5F8296128188C249260D68",
+    "version": "0.0.8",
+    "url": "https://raw.githubusercontent.com/Jnzzi/jplugins/master/bankstander-0.0.8.jar",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "",
+  "provider": "jplugins",
+  "name": "JChompyBird",
+  "description": "",
+  "id": "jchompybird-plugin",
+  "releases": [{
+    "date": "2022-12-28",
+    "sha512sum": "3D13FB1C0D5C60E501D5F9C7A234D5EFCBFECF043DA33A0C129D4D928E2C95C75420FCF28EDDBF38978CE92DB70FE7743B7356BDCCC075A76288C580E28A1B0B",
+    "version": "0.0.3",
+    "url": "https://raw.githubusercontent.com/Jnzzi/jplugins/master/j-chompybird-0.0.3.jar",
+    "requires": "^1.0.0"
+  }]
 }]
