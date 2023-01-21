@@ -10,6 +10,13 @@
     "version": "0.0.8",
     "url": "https://raw.githubusercontent.com/Jnzzi/jplugins/master/bankstander-0.0.8.jar",
     "requires": "^1.0.0"
+  },
+  {
+    "date": "2023-01-13",
+    "sha512sum": "06818CCE7641FC8A0CC474EFCAB85F749697060941C5D1EF8FB53B76E8EFC0A7511DB4E43592145B0E813E76061855726B2312AA1A8DA8684CF9616E237106D5",
+    "version": "0.0.9",
+    "url": "https://raw.githubusercontent.com/Jnzzi/jplugins/master/bankstander-0.0.9.jar",
+    "requires": "^1.0.0"
   }]
 }, {
   "projectUrl": "",
